@@ -9,8 +9,8 @@
     "license": "MIT",
     "repositories": [
         {
-            "type": "path",
-            "url": "../laravel-nova"
+            "type": "composer",
+            "url": "https://nova.laravel.com"
         }
     ],
     "require": {
